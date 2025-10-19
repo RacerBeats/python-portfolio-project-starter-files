@@ -24,11 +24,10 @@ Guide to find meaningful info: https://datasciencepublicpolicy.org/our-work/tool
 Things to analyze:
 
 average age
-median age
 
 sex count
 
-bmi avg and median
+bmi avg
 
 # kids avg
 
@@ -36,7 +35,7 @@ smoker status count
 
 region (unique) count
 
-avg and median charges of health insurance
+avg charges of health insurance
 
 **SOME MORE THOROUGH STUDIES**
     Avg cost of smokers vs non smokers
